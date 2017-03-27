@@ -36,7 +36,7 @@ setcookie("MySecretLittleHelper",$value, time()+3600*24);
 <!-- Nav bar -->
 <ul class="nav">
 	<li class="current"> <a href=index.php>Forside</a></li>
-	<li> <a href=underside.php>Underside</a></li>
+	<li> <a href=underside.php>Kanin Underside</a></li>
 	</ul>
 </header>
 

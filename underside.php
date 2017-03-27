@@ -10,7 +10,7 @@
 <header>
 <ul class="nav">
 	<li> <a href=index.php>Forside</a></li>
-	<li class="current"> <a href=underside.php>Underside</a></li>
+	<li class="current"> <a href=underside.php>Kanin Underside</a></li>
 	</ul>
 </header>
 
