@@ -7,3 +7,6 @@
 </div>
 
 <?php get_footer(); ?>
+
+
+<link href="css/stylesheet.css" rel="stylesheet">
